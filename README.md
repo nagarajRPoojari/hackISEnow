@@ -1,6 +1,8 @@
 
 # Multimodal 3D Tumor segmentation
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nagarajRPoojari/hackISEnow/blob/master/LICENSE)
+# 
 An end to end deep learning model for 3d brain tumor segmentation.
 Model follows encoder decoder architecture , built from scratch
 and trained on [BraTS2020](https://www.kaggle.com/datasets/awsaf49/brats2020-training-data) dataset.
