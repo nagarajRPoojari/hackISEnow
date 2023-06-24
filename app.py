@@ -6,7 +6,7 @@ from tensorflow.keras.utils import to_categorical
 import matplotlib.pyplot as plt
 from pathlib import Path
 from sklearn.preprocessing import MinMaxScaler
-import cv2 as cv
+
 
 scaler = MinMaxScaler()
 import os
